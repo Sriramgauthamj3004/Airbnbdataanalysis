@@ -28,4 +28,4 @@ Utilize Plotly to create interactive and informative visualizations for EDA, mak
 
 PowerBI
 
-Create a comprehensive Tableau dashboard to visually analyze Airbnb data, with a focus on average prices and the number of reviews based on country and room types.
+Create a comprehensive PowerBI to visually analyze Airbnb data, with a focus on average prices and the number of reviews based on country and room types.
